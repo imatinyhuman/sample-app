@@ -1,0 +1,3 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED        STATUS                    PORTS     NAMES
+0b7a068d6dab   51aaf51c7c4a   "/bin/sh -c 'python3…"   11 hours ago   Created                             samplerunning
+92565097f6b6   hello-world    "/hello"                 17 hours ago   Exited (0) 17 hours ago             epic_lehmann
